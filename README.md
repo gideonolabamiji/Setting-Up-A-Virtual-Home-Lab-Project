@@ -6,6 +6,10 @@ Setting up a Virtual Home Lab Project This repositories shows progressive simula
 
 
 
+
+
 .**VirtualBox (The Virtualisation Manager)**
+
 .**Window Server**
+
 .**2Windows 8.1 Client**
